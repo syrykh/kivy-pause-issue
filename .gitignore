@@ -1,0 +1,6 @@
+.buildozer
+bin
+
+.idea
+
+venv
